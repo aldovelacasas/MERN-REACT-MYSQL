@@ -7,7 +7,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server/index.js",
-    "tart": "node server/index.js"
+    "tart": "node server/index.js",
+    "buid": "react-scripts buid"
   },
   "keywords": [],
   "author": "",
@@ -19,6 +20,7 @@
     "mysql2": "^3.6.5"
   },
   "devDependencies": {
-    "nodemon": "^3.0.2"
+    "nodemon": "^3.0.2",
+    "react-scripts": "^5.0.1"
   }
 }
