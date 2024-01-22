@@ -8,7 +8,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon server/index.js",
     "tart": "node server/index.js",
-    "buid": "react-scripts buid"
+      "build": "react-scripts build"
+      
+    
+    
   },
   "keywords": [],
   "author": "",
