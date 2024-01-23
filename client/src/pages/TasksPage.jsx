@@ -1,4 +1,4 @@
-import TaskCard from "../components/taskCard"
+import TaskCard from "../components/TaskCard"
 import { useTask } from "../context/TasksProvider"
 import { useEffect } from "react";
 
